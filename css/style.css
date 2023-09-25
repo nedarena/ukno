@@ -157,7 +157,7 @@ h3 {
     background-image: url(../img/texnolider.webp);
     background-position: center;
     background-repeat: no-repeat;
-    background-position-y: top;
+    background-position-y: center;
     height: 100vh;
     display: flex;
     justify-content: center;
